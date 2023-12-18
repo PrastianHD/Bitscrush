@@ -33,3 +33,33 @@ cd Bitscrush
 ```
 python query.py
 ```
+
+### Termux
+```
+pkg upgrade
+pkg install python
+pip install --upgrade pip
+```
+
+```
+pip install pycryptodome
+```
+
+```
+pip install git
+```
+
+```
+git clone https://github.com/PrastianHD/Bitscrush.git
+```
+
+```
+cd Bitscrush
+```
+
+```
+python query.py
+```
+
+# Edit dulu access-key.json yang sudah di download tadi
+# Edit juga mau berapa kali run query
