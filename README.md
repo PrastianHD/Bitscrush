@@ -26,10 +26,10 @@ git clone https://github.com/PrastianHD/Bitscrush.git
 cd Bitscrush
 ```
 
-4. Coba Run terlebih daulu untuk memastikan apakah kode nya work
-5. Ganti file access-json sesuai dengan file kalian
-6. Ganti mau sampai berapa untuk menjalankan query. Disini saja men-setting 10 Query. Anda bisa mengeditnya di kode baris 24 num_requests = 10 pada file query.py
-7. Kemdudian run
+4. Ganti file access-json sesuai dengan file kalian
+5. Ganti mau sampai berapa untuk menjalankan query. Disini saja men-setting 10 Query. Anda bisa mengeditnya di kode baris 24 num_requests = 10 pada file query.py
+6. Kemdudian run
+   
 ```
 python query.py
 ```
