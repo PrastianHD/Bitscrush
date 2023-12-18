@@ -28,7 +28,7 @@ cd Bitscrush
 
 4. Ganti file access-json sesuai dengan file kalian
 5. Ganti mau sampai berapa untuk menjalankan query. Disini saja men-setting 10 Query. Anda bisa mengeditnya di kode baris 24 num_requests = 10 pada file query.py
-6. Kemdudian run
+6. Kemudian run
    
 ```
 python query.py
