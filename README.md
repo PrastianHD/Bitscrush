@@ -1,11 +1,11 @@
  <h1 align="center">Bitscrush Incentive Testnet</h1>
 
-### Query
+## Query
 1. Buatlah akun baru di menu Customer misal "bitscrush"
 2. Kemudian klik Add Fund. Depositkan USDC 
 3. Download file access-key.json
 
-### Visual Code Studio
+## Visual Code Studio
 1. Create a folder Bitscrush
 2. Open in Visual Code Studio
 3. Open Terminal
@@ -34,7 +34,7 @@ cd Bitscrush
 python query.py
 ```
 
-### Termux
+## Termux
 ```
 pkg upgrade
 pkg install python
@@ -61,5 +61,5 @@ cd Bitscrush
 python query.py
 ```
 
-# Edit dulu access-key.json yang sudah di download tadi
-# Edit juga mau berapa kali run query
+### Edit dulu access-key.json yang sudah di download tadi
+### Edit juga mau berapa kali run query
