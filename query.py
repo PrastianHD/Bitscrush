@@ -21,7 +21,7 @@ host = "https://api-testnet.bitscrunch.com"
 path = "/api/v1/market/metrics?currency=usd&blockchain=1&metrics=holders&metrics=marketcap&time_range=24h&include_washtrade=true"
 body = ""
 
-num_requests = 50000
+num_requests = 10
 
 for _ in range(num_requests):
     try:
