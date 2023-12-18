@@ -63,3 +63,5 @@ python query.py
 
 ### Edit dulu access-key.json yang sudah di download tadi
 ### Edit juga mau berapa kali run query
+
+![run](https://github.com/PrastianHD/Bitscrush/blob/main/1000.png)https://github.com/PrastianHD/Bitscrush/blob/main/1000.png)
