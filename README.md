@@ -1,4 +1,4 @@
- <h1 align="center">Bitcrush Incentive Testnetr</h1>
+ <h1 align="center">Bitscrush Incentive Testnet</h1>
 
 ### Query
 1. Buatlah akun baru di menu Customer misal "bitscrush"
